@@ -1,4 +1,4 @@
-const initialState = () =>[
+const initialState = [
     {
         id: 1,
         text: "Learn React JS",
